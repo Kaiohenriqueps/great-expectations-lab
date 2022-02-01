@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS std;
+CREATE TABLE IF NOT EXISTS std.flavors (flavor_name VARCHAR(50), category VARCHAR(50));
